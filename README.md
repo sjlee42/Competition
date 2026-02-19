@@ -7,7 +7,4 @@
 ### 1. Heart Disease Prediction
 심장병 예측 모델
 - 📁 [`heart-disease/`](./heart-disease)
-- 상태: 진행 중
-
-## Author
-잼 (Gachon University)
+- 상태 : 완료
