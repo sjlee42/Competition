@@ -1,6 +1,6 @@
-# Kaggle
+# Competition
 
-캐글 연습 프로젝트 모음
+캐글 연습 프로젝트 & 분류, 예측 대회 모음
 
 ## Projects
 
